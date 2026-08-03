@@ -4,8 +4,8 @@ I'm a CS student at Georgia Tech interested in distributed systems, language mod
 
 Lately I've been working on:
 
-- **FlipEval** — statistical methods for evaluating compressed language models
-- **RaftLab** — a Raft implementation in Rust with visualization and fault injection
-- **GavelLive** — a distributed live-auction platform built on Aurora DSQL
+- **FlipEval**: statistical methods for evaluating compressed language models
+- **RaftLab**: a Raft implementation in Rust with visualization and fault injection
+- **GavelLive**: a distributed live-auction platform built on Aurora DSQL
 
 Outside of coursework I enjoy writing about systems, reproducing research papers, and building things that make AI easier to evaluate.
