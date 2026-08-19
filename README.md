@@ -1,6 +1,6 @@
 # Hi, I'm Amogh.
 
-I'm a CS student at Georgia Tech interested in distributed systems, language models, and building software that's easy to reason about.
+I'm a CS undergrad at the Georgia Institute of Technology interested in distributed systems, language models, and building software that's easy to reason about.
 
 Lately I've been working on:
 
